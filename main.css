@@ -1,0 +1,15 @@
+p,th,h1
+{
+    color: white;
+}
+
+body
+{
+    background-color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
